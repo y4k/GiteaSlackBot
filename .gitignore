@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+giteabot/
 env/
 build/
 develop-eggs/
